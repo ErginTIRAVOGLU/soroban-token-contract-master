@@ -1,0 +1,10 @@
+C:\Users\Ergin\Downloads\soroban-token-contract-master\soroban-token-contract-master\target\debug\deps\libarbitrary-84b6d4ac7138fb5d.rmeta: C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\lib.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\error.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\unstructured.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\size_hint.rs
+
+C:\Users\Ergin\Downloads\soroban-token-contract-master\soroban-token-contract-master\target\debug\deps\libarbitrary-84b6d4ac7138fb5d.rlib: C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\lib.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\error.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\unstructured.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\size_hint.rs
+
+C:\Users\Ergin\Downloads\soroban-token-contract-master\soroban-token-contract-master\target\debug\deps\arbitrary-84b6d4ac7138fb5d.d: C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\lib.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\error.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\unstructured.rs C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\size_hint.rs
+
+C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\lib.rs:
+C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\error.rs:
+C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\unstructured.rs:
+C:\Users\Ergin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\arbitrary-1.3.2\src\size_hint.rs:
